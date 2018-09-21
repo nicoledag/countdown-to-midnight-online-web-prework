@@ -13,12 +13,12 @@ end
 
 end
 
-
 countdown(10)
 
 
-def countdown_with_sleep(number)
 
+
+def countdown_with_sleep(number)
 
 number = 10
 
@@ -33,7 +33,6 @@ end
 "HAPPY NEW YEAR!"
 
 end
-
 
 
 countdown_with_sleep(10)
